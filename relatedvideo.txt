@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=mJ-qvsxPHpY
+
+
+Some nice things I kinda want to save somewhere:
+
+git init
+git add .
+git add *file name*
+git commit -m 'message'
+git push origin master
+git push origin new-branch
+git pull origin master
+git checkout -b new-branch
+git status
+git log
+git checkout *commit hash*
